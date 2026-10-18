@@ -1,10 +1,5 @@
 # Project 02- Smart Streetlight Management System
-## Due Date: 
-* Report - 
-* Code -
-* Presentation - 
 
---------------------------
 ## Project Description
 Develop a Smart Streetlight Management System to support energy efficiency and sustainable urban infrastructure, aligned with SDG 11 (Sustainable Cities and Communities) and SDG 7 (Affordable and Clean Energy).
 
